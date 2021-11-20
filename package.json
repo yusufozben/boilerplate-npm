@@ -6,7 +6,7 @@
 		"exercise"
 	],
 	"license": "MIT",
-	"version": "1.2.0",
+	"version": "2.10.2",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.17.1",
