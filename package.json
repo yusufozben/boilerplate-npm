@@ -1,7 +1,10 @@
 {
 	"author": "Yusuf Ozben",
 	"description": "It is for a freeCodeCamp course",
-	"keywords": ["freecodecamp", "exercise"],
+	"keywords": [
+		"freecodecamp",
+		 "exercise"
+	],
 	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
